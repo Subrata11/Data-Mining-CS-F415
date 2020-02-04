@@ -15,3 +15,9 @@ These are my solutions to the Lab sheets for Data Mining (CS F415) at BITS Pilan
 
     Introduction to Python3
     Basics of NumPy
+    
+## Lab 4
+
+    Basics of Pandas
+    Basics of Matplotlib
+    Principle Component Analysis
