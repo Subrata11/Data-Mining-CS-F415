@@ -21,3 +21,9 @@ These are my solutions to the Lab sheets for Data Mining (CS F415) at BITS Pilan
     Basics of Pandas
     Basics of Matplotlib
     Principle Component Analysis
+    
+## Lab 5
+    
+    Decision Tree
+        a. Using Python
+        b. Using IBM SPSS
