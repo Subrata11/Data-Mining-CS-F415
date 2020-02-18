@@ -1,0 +1,15 @@
+******************************************************************
+Input Field	Description	
+******************************************************************
+id 		a unique identification number 
+age 		age of customer in years (numeric) 
+sex 		MALE / FEMALE 
+region 		inner_city/rural/suburban/town 
+income 		income of customer (numeric) 
+married 	is the customer married (YES/NO) 
+children 	number of children (numeric) 
+car does 	the customer own a car (YES/NO) 
+save_acct 	does the customer have a saving account (YES/NO) 
+current_acct 	does the customer have a current account (YES/NO) 
+mortgage 	does the customer have a mortgage (YES/NO) 
+pep 		did the customer buy a PEP (Personal Equity Plan) after the last mailing (YES/NO) 

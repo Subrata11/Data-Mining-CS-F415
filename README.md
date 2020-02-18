@@ -27,3 +27,11 @@ These are my solutions to the Lab sheets for Data Mining (CS F415) at BITS Pilan
     Decision Tree
         a. Using Python
         b. Using IBM SPSS
+
+## Lab 6
+    
+   K Nearest Neighbor (KNN)
+        a. Using Python
+        b. Using IBM SPSS
+
+
