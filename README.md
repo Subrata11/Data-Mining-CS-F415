@@ -4,34 +4,34 @@ These are my solutions of labsheets for Data Mining (CS F415) at BITS Pilani, Sp
 
 ## Lab 1
 
-Introduction to IBM SPSS
-Data Preprocessing 1 on IBM SPSS
+    Introduction to IBM SPSS
+    Data Preprocessing 1 on IBM SPSS
 
 ## Lab 2
 
-Data Preprocessing 2 on IBM SPSS
+    Data Preprocessing 2 on IBM SPSS
 
 ## Lab 3 
 
-Introduction to Python3
-Basics of NumPy
+    Introduction to Python3
+    Basics of NumPy
 
 ## Lab 4
 
-Basics of Pandas
-Basics of Matplotlib
-Principle Component Analysis
+    Basics of Pandas
+    Basics of Matplotlib
+    Principle Component Analysis
 
 ## Lab 5
 
-Decision Tree
-a. Using Python
-b. Using IBM SPSS
+    Decision Tree
+    a. Using Python
+    b. Using IBM SPSS
 
 ## Lab 6
 
-K Nearest Neighbor (KNN)
-a. Using Python
-b. Using IBM SPSS
+    K Nearest Neighbor (KNN)
+    a. Using Python
+    b. Using IBM SPSS
 
 
